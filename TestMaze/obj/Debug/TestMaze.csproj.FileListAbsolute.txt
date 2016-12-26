@@ -1,0 +1,6 @@
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\bin\Debug\TestMaze.exe.config
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\bin\Debug\TestMaze.exe
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\bin\Debug\TestMaze.pdb
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\obj\Debug\TestMaze.csprojResolveAssemblyReference.cache
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\obj\Debug\TestMaze.exe
+c:\users\vuongkm\documents\visual studio 2015\Projects\TestMaze\TestMaze\obj\Debug\TestMaze.pdb
