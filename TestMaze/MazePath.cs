@@ -251,7 +251,6 @@ namespace TestMaze
 
             while (remainVertices.Count > 0)
             {
-                Console.WriteLine(remainVertices.Count);
                 count++;
                 MazePath path = new MazePath();
                 path.entrancePosition = entrancePosition;
@@ -261,8 +260,6 @@ namespace TestMaze
 
                 //Store the coordinate for entrance and exit 
             }
-            Console.WriteLine(paths.Count);
-            Console.WriteLine(count);
             return paths;
         }
 

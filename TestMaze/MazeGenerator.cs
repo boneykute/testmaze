@@ -19,6 +19,7 @@ namespace TestMaze
 			//List all path in the maze
 			List<MazePath> paths = new List<MazePath> ();
 			List<MazePath> existedPaths = drawPath.BreakIntoConnectedPaths ();
+            Console.WriteLine("EXISTED PATH: " + existedPaths.Count);
 			//Add path from existing draw path
 			existedPaths.ForEach ((p) => {
 				paths.Add (p);
